@@ -1,0 +1,8 @@
+out
+node_modules
+.project
+.settings
+.classpath
+.nyc_output
+coverage
+reports
