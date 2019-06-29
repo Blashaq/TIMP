@@ -29,4 +29,4 @@ We have something for you: **TIMP**!
 
 More features planned, like custom skins for other board games!
 
-Feel free to propose features (or just fork and request a merge)!
+Feel free to propose features, or contribute yourself!
