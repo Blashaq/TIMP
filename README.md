@@ -19,6 +19,7 @@ We have something for you: **TIMP**!
 * customizable communication hijack options like:
 	- chance to capture whole message,
 	- chance to capture part of the message,
+	- customize how partial messages are represented
 	- espionage cooldown and/or resource usage,
 	- chance for spied player to detect espionage
 	- chance for spied player to detect what was leaked
